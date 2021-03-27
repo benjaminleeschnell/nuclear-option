@@ -185,6 +185,12 @@ a.footer {
   border-top: 45px solid #295636;
 }
 
+@media (max-width: 500px) {
+  a.footer {
+    font-size: 1em;
+  }
+}
+
 .smgc-cal-k0j3fDKIgmXqTLdwMvTm-event-container {
   padding: 10px !important;
 }
