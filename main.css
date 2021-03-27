@@ -118,7 +118,7 @@ body {
       rgba(68, 120, 135, 0.45),
       rgba(68, 120, 135, 0.45)
     ),
-    url(/img/calendar-background.jpeg) center center no-repeat;
+    url(img/calendar-background.jpeg) center center no-repeat;
   background-size: cover;
 }
 
